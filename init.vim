@@ -18,7 +18,7 @@
 
 
 " setting python provider (set as python2 if you use python2)
-let g:python3_host_prog = 'C:\Users\Jaylen\AppData\Local\Programs\Python\Python39'
+let g:python3_host_prog = 'C:\Users\User\AppData\Local\Programs\Python\Python39'
 
 " for pythonx
 	"if has('python')
